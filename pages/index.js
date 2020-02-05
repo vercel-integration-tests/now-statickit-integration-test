@@ -4,8 +4,8 @@ import Head from '../components/head';
 import Nav from '../components/nav';
 
 import { helloWorld, createClient } from '@statickit/functions';
-let client = createClient({ site: "9d6fb7039a1f" });
-helloWorld(client, { subject: "Hello world!" });
+// let client = createClient({ site: "9d6fb7039a1f" });
+// helloWorld(client, { subject: "Hello world!" });
 
 const Home = () => {
   const [date, setDate] = useState(null);
