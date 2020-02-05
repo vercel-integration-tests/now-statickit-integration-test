@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "helloWorld": {
+      "type": "sendNotification",
+      "to": "william@zeit.co"
+    }
+  }
+}
