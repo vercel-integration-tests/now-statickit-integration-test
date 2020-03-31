@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@statickit/functions": "github:unstacked/statickit-functions#73fee733-326c-4bcf-9b4e-3372b816ed6c",
-    "next": "^9.1.6",
+    "next": "^9.3.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
